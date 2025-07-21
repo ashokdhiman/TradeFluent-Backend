@@ -89,8 +89,9 @@ public class AppConfig {
 	                    "http://localhost:3000",
 	                    "http://localhost:5173",
 						"http://localhost:5174",
-	                    "http://localhost:4200",
-							"https://zosh-treading.vercel.app"
+	                    "https://tradefluent-frontend.vercel.app",
+							"https://www.google.com",
+							"https://tradefluent-frontend-mnjv6kc81-ashoks-projects-2690cea7.vercel.app"
 	                ));
 	                cfg.setAllowedMethods(Collections.singletonList("*"));
 	                cfg.setAllowCredentials(true);
